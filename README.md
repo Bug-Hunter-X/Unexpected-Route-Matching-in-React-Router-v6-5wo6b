@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using React Router v6: unexpected route matching.  The `bug.js` file showcases the problematic code, leading to incorrect route rendering. The `bugSolution.js` file presents the corrected implementation, ensuring accurate route matching and navigation.
